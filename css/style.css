@@ -33,7 +33,7 @@ a {
 .first-container {
     background-color: #DEFCF9;
     position: relative;
-    padding-top: 110px;
+    padding-top: 10px;
 }
 
 /*   This is the place of the middle container:
@@ -150,8 +150,8 @@ hr{
 
 .top-cloud {
     position: absolute;
-    right: 300px;
-    top: 40px;
+    right: 270px;
+    top: 20px;
 }
 
 span {
