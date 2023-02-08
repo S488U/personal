@@ -204,10 +204,10 @@ span {
 
     .mountain {
         left: 2px;
-        width: 365px;
+        width: 370px;
         margin-top: -4rem;
         /* height: 325px; */
-        height: 265px;
+        height: 290px;
         position: relative;
         overflow: hidden;
         z-index: 1;
