@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>scroll bar</title>
+
+    <style>
+        body {
+            height: 300vh;
+        }
+
+        /* width */
+
+    </style>
+</head>
+<body>
+    <p>Copyright <span id="date"></span> | Shahabas.A.H</p>
+    
+</body>
+
+<script>
+    const date = document.getElementById("date");
+    const today = new Date();
+    date.innerHTML = today.getFullYear();
+
+    console.log(today);
+</script>
+</html>

@@ -1,0 +1,1 @@
+const year=document.getElementById("year"),today=new Date;year.innerHTML=today.getFullYear();

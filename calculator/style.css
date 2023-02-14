@@ -1,0 +1,28 @@
+:root {
+    background-color: black;
+}
+
+.calc {
+    background-color: aqua;
+    display: inline-block;
+    margin: auto;
+    align-items: center;
+    align-content: center;
+    position: relative;
+    top: 200px;
+    left: 400px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.top-cont .text {
+    padding: 20px ;
+}
+
+.btn1{
+    padding: 10px 12px 10px 12px;
+}
+
+.btn{
+    padding: 20px;
+}
