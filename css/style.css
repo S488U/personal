@@ -271,9 +271,8 @@ footer {
     .mountain {
         left: 2px;
         width: 360px;
-        margin-top: 7rem;
-        /* height: 325px; */
-        height: 290px;
+        margin-top: -1.7rem;
+        height: 300px;
         position: relative;
         overflow: hidden;
         z-index: 1;
@@ -382,7 +381,7 @@ footer {
     }
 
     footer {
-        height: 65vh;
+        height: 75vh;
         margin: 0;
         padding: 0;
     }
@@ -394,7 +393,7 @@ footer {
         display: grid;
         padding: 0;
         /* gap: 0; */
-        padding-left: 25px;
+        padding-left: 45px;
     }
 
 }
